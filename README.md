@@ -27,3 +27,6 @@ Add more compatible pools.
 Add more miners reporting statistics.
 ...
 
+Download:
+
+https://mega.nz/#!COoEDAya!qL4Ei9rLQ_fhQHE7ZL6nSbFmgXGyPYyIp0uLDCnmIe4
